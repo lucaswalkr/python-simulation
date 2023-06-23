@@ -10,11 +10,11 @@ In this repository you will find all the files needed to explore the forest fire
 - animation.ipynb : The python code to animate and visualise the forest fire model
 - plots.ipynb : The python code to extract, analyse and visualise data from the forest fire model
 
-- tests : folder containing tests of the simulation code for rules 1, 2 and 4 (3 and 4 work by the same function)
+- [tests](/tests) : folder containing tests of the simulation code for rules 1, 2 and 4 (3 and 4 work by the same function)
 
-- figures : folder of images (time series plots) used in the report 
+- [figures](/figures) : folder of images (time series plots) used in the report 
 
-- additional_feature : folder containing all code to investigate the additional feature
+- [additional_feature](/additional_feature) : folder containing all code to investigate the additional feature
   - add_simulation_script.py : The python code written to run the simulation with the additional model feature
   - add_plots.ipynb : The python code to visualise data from the additional feature forest fire model
   - add_animation.ipynb: The python code to animate and visualise the additional feature forest fire model
