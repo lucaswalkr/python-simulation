@@ -1,6 +1,4 @@
 # A forest-fire model following the principles of a cellular automaton model
-# Student ID: 1930864
-# University of Bristol
 
 import numpy as np
 
